@@ -1,0 +1,10 @@
+.image-gallery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-gallery img {
+  margin: "2rem";
+  max-width: 100%;
+}
